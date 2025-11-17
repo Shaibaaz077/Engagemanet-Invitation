@@ -139,7 +139,7 @@ const InvitationCard = () => {
                     Daughter of
                   </p>
                   <p className="font-playfair text-xl md:text-3xl font-bold text-primary">
-                    Mrs & Mr. Mohd Fayaq Sahab
+                    Mrs & Mr. Mohd Fayaq Patel
                   </p>
                 </div>
               </div>
